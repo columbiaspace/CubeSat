@@ -1,6 +1,4 @@
-[submodule "cubesat-fprime2"]
-	path = cubesat-fprime2
-	url = https://github.com/columbiaspace/cubesat-fprime
 [submodule "cubesat-fprime"]
 	path = cubesat-fprime
 	url = https://github.com/columbiaspace/cubesat-fprime
+	branch = main
