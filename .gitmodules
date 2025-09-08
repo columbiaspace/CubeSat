@@ -1,0 +1,3 @@
+[submodule "cubesat-fprime2"]
+	path = cubesat-fprime2
+	url = https://github.com/columbiaspace/cubesat-fprime
