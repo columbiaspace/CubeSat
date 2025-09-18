@@ -2,3 +2,6 @@
 	path = cubesat-fprime
 	url = https://github.com/columbiaspace/cubesat-fprime
 	branch = main
+[submodule "thruster-sim"]
+	path = thruster-sim
+	url = git@github.com:columbiaspace/cubesat-thruster-tutorial.git
