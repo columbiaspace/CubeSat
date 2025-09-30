@@ -5,3 +5,7 @@
 [submodule "thruster-sim"]
 	path = thruster-sim
 	url = git@github.com:columbiaspace/cubesat-thruster-tutorial.git
+[submodule "cubesat-heater-tutorial"]
+	path = cubesat-heater-tutorial
+	url = https://github.com/columbiaspace/cubesat-heater-tutorial
+	branch = master
